@@ -170,9 +170,9 @@ $(function() {
 	var w = new Coder("md");
 	w.load("<h1 class='writecode'>个人简历</h1>");
 	w.load("<p><div class='writecode'>马贵龙</div>");
-	w.load("<div class='writecode'>web前端工程师(上海荟邮网络科技有限公司)</div>");
-	w.load("<div class='writecode'>前端/NodeJS 开发工程师</div></p>");
-	w.load("<h1 class='writecode'>联系我</h1>");
+	w.load("<div class='writecode'>web前端工程师(科锐国际人力资源有限公司)</div>");
+	w.load("<div class='writecode'>web前端/JS 开发工程师</div></p>");
+	w.load("<h1 class='writecode'>联系我吧</h1>");
 	w.load("<ul>");
 	w.load("<li class='writecode'>mail:mgl4025@163.com</li>");
 	w.load("<li class='writecode'>blog:<a href='http://blog.lxwh.com' target='_blank'>blog.lxwh.com</a></li>");
@@ -180,7 +180,7 @@ $(function() {
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>职业技能</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>精通HTML/HTML 5、CSS/CSS 3、JavaScript、Ajax等前端开发技术</li>");
+	w.load("<li class='writecode'>精通HTML/HTML5、CSS/CSS3、JavaScript、Ajax等前端开发技术</li>");
 	w.load("<li class='writecode'>熟悉WEB标准，注重标签语义化，开发符合W3C标准的前端页面</li>");
 	w.load("<li class='writecode'>熟练各种Web前端开发技术H5,CSS3,jQuery,React,Vue,Angular</li>");
 	w.load("<li class='writecode'>熟悉使用Photoshop切图及CSS-Sprite技术</li>");
@@ -195,7 +195,7 @@ $(function() {
 	w.load("<li class='writecode'>No.2 项目名称：<a href='http://www.clickbao.com' target='_blank'>客利客（PC端）</a></li>");
 	w.load("<li class='writecode'>No.3 项目名称：<a href='http://wwww.dushuline.com' target='_blank'>独书在线（移动端）</a></li>");
 	w.load("<li class='writecode'>No.4 项目名称：<a href='http://www.1yg.com target='_blank'>元购（PC端与移动端） </a></li>");
-	w.load("<li class='writecode'>No.4 项目名称：<a href='http://www.dongtaoyao.com/' target='_blank'>董陶窑（PC端） </a></li>");
+	w.load("<li class='writecode'>No.5 项目名称：<a href='http://www.dongtaoyao.com/' target='_blank'>董陶窑（PC端） </a></li>");
 	w.load("</ul>");	
 c.load("<p><div class='comment writecode'>/**</div>");
 	c.load("<div class='comment writecode'>&nbsp;*左面的简历看起来不是太令人满意，让我们先给他来点动态渲染</div>");
