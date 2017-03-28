@@ -1,5 +1,5 @@
 # 马贵龙的个人简历
-## 欢迎各位访问，在线地址：https://lxwh.github.io/MaguilongResume/
+## 欢迎各位访问，在线地址： https://lxwh.github.io/MaguilongResume/
 
 目前公司：科锐国际人力资源有限公司
 所在地点：北京
