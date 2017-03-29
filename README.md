@@ -1,6 +1,5 @@
 # 马贵龙的个人简历
 
-## 欢迎各位访问，在线地址： https://lxwh.github.io/MaguilongResume/
 
 ### 基本资料
 - 性别：男
@@ -147,3 +146,4 @@
 - 严重的代码洁癖患者；
 
 
+## 欢迎各位访问，在线地址： https://lxwh.github.io/MaguilongResume/
