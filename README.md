@@ -3,9 +3,9 @@
 
 ### 基本资料
 - 性别：男
-- 出生年月：1992-03
-- 工作年限 : 3年 | 2014年8月 | 2年零8个月从事 web前端开发 
-- 教育背景: 北京理工大学继续教育学院 | 电子信息科学与技术 | 大专
+- 出生年月：1992-12
+- 工作年限 : 3年 | 2014年8月 | 从事web前端开发3年零8个月 
+- 教育背景: 中央财经大学 | 项目管理 | 本科
 - 联系方式 : 手机 135-2265-4025 | 微信 mgl13269937305 | 邮箱 marqueslong4025@gmail.com
 - 社交 : GitHub  https://github.com/lxwh  | Blog https://lxwh.github.io/MyBlog/
 
@@ -18,11 +18,11 @@
 
 
 ### 技能清单
-1. 熟练掌握HTML、DIV+CSS的页面布局，能根据设计图,100%还原成web页面；
-2. 熟练掌握Bootstrap框架进行响应式布局和弹性盒(flex-box)布局，熟悉基于HTML5的WebApp开发以及移动端适配；
+1. 精通HTML、DIV+CSS的页面布局，能根据设计图,100%还原成web页面；
+2. 精通Bootstrap框架进行响应式布局和弹性盒(flex-box)布局，熟悉基于HTML5的WebApp开发以及移动端适配；
 3. 熟悉主流浏览器的兼容性以及相应的适配技术，完成页面的完整兼容；
 4. 熟练使用photoshop软件进行简单的图片处理，能根据图片特征保存成最优的格式；
-5. 熟悉原生JavaScript以及常用JavaScript库，如jQuery、Zepto；
+5. 精通JavaScript以及常用JavaScript库，如jQuery、Zepto；
 6. 了解http协议，能够根据http请求报文、响应报文和状态码排查问题；
 7. 了解如何使用Node.js搭建本地server模拟接口返回数据测试ajax接口；了解php和mysql数据库；
 8. 熟练运用ajax实现异步数据传递，熟悉JSON等数据交换格式；
